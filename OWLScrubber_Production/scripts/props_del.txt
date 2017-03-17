@@ -1,0 +1,33 @@
+Editor_Note
+IMT_Code
+Review_Status
+CTRM_ID
+DC_Anatomy
+PARENT
+OLD_SOURCE_ROLE
+Def_Curator
+Merge_Source
+Merge_Target
+IND_Code
+Merge_Into
+Locus_ID
+NDFRT_Code
+NDFRT_Name
+Related_MedDRA_Code
+Mitelman_Code
+Maps_To_LASH
+Related_Lash_Concept
+ALT_LONG_DEFINITION
+LONG_DEFINITION
+Synonym
+Project_Name
+In_Clinical_Trial_For
+Publish_Value_Set
+Value_Set_Location
+TVS_Location
+Term_Browser_Value_Set_Description
+Maps_To
+ALT_DEFINITION  def-source      SPL
+ALT_DEFINITION  attr    ICSR
+ALT_DEFINITION  attr    caDSR
+ALT_DEFINITION  attr    eManu

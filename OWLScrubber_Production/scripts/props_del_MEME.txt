@@ -1,0 +1,16 @@
+Editor_Note
+IMT_Code
+Review_Status
+CTRM_ID
+DC_Anatomy
+PARENT
+OLD_SOURCE_ROLE
+Def_Curator
+Merge_Source
+Merge_Target
+OLD_ROLE
+OLD_PARENT
+OLD_KIND
+IND_Code
+OID
+Merge_Into
